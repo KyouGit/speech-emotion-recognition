@@ -1,0 +1,17 @@
+{
+    "test_accuracy": 90.67652075042638,
+    "test_loss": 0.49591449065641924,
+    "num_classes": 7,
+    "emotion_mapping": {
+        "angry": 0,
+        "disgust": 1,
+        "fear": 2,
+        "happiness": 3,
+        "neutral": 4,
+        "sadness": 5,
+        "surprise": 6
+    },
+    "num_train": 30782,
+    "num_val": 4398,
+    "num_test": 8795
+}

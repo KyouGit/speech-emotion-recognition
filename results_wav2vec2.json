@@ -1,0 +1,18 @@
+{
+    "model": "wav2vec2",
+    "test_accuracy": 52.495736213757816,
+    "test_loss": 1.3423747968673707,
+    "num_classes": 7,
+    "emotion_mapping": {
+        "angry": 0,
+        "disgust": 1,
+        "fear": 2,
+        "happiness": 3,
+        "neutral": 4,
+        "sadness": 5,
+        "surprise": 6
+    },
+    "num_train": 30782,
+    "num_val": 4398,
+    "num_test": 8795
+}
